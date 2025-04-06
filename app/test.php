@@ -19,3 +19,6 @@ print_r($_COOKIE);
 
 ?>
 </pre>
+
+<img src="/app/_templates/image.jpeg" alt="oombu">
+

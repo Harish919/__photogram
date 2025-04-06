@@ -17,7 +17,6 @@ include '_libs/load.php';
   <meta name="generator" content="Hugo 0.122.0">
   <title>Photogram</title>
 
-  <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/album/">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
