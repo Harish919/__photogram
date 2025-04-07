@@ -16,9 +16,12 @@ print_r($_FILES);
 print("COOKIE");
 print_r($_COOKIE);
 
+echo $_SERVER["DOCUMENT_ROOT"];
+echo "<br>";    
+echo $_SERVER["PHP_SELF"];
 
 ?>
 </pre>
 
-<img src="/app/_templates/image.jpeg" alt="oombu">
+
 
